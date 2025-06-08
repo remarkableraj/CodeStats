@@ -1,0 +1,17 @@
+.easy-chart{
+    
+    /* background: conic-gradient(rgb(25, 118, 210)  var(--progress-degree, 0%), #4a5568 0%); */
+    background: conic-gradient(#1D4ED8  var(--progress-degree, 0%), #4a5568 0%);
+}
+
+.medium-chart{
+    
+    /* background: conic-gradient(rgb(25, 118, 210)  var(--progress-degree, 0%), #4a5568 0%); */
+    background: conic-gradient(#1D4ED8  var(--progress-degree, 0%), #4a5568 0%);
+}
+
+.hard-chart{
+    
+    /* background: conic-gradient(rgb(25, 118, 210)  var(--progress-degree, 0%), #4a5568 0%); */
+    background: conic-gradient(#1D4ED8  var(--progress-degree, 0%), #4a5568 0%);
+}
