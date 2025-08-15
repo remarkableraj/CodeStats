@@ -138,5 +138,3 @@ function Leetcode() {
 export default Leetcode
 
 
-// https://alfa-leetcode-api.onrender.com/harshit_404/contest
-// https://github.com/alfaarghya/alfa-leetcode-api?tab=readme-ov-file
